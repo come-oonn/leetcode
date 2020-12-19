@@ -1,2 +1,10 @@
 # leetcode
-leetcode  learn
+
+## 该项目主要目的
+1. 记录刷过的算法题
+2. 复习与重刷
+
+## 该项目分类
+1. 数据结构与算法
+2. leetcode
+3. 剑指offer

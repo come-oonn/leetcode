@@ -1,5 +1,0 @@
-- 算法
-  - [首页](/)
-  - [Guide](guide.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](剑指offer/)
