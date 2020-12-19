@@ -1,5 +1,5 @@
 - leetcode
-  - [主页](/leetcode/)
-  - [类型](/leetcode/list.md)
+  - [题目-按序号](/leetcode/)
+  - [题目-按类型](/leetcode/list.md)
   - [75. 颜色分类](/leetcode/75.颜色分类.md)
   - [283.移动零](/leetcode/283.移动零.md)
