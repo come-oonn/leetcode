@@ -1,7 +1,10 @@
 # leetcode
 
+## 项目主页
+https://come-oonn.github.io/leetcode/
+
 ## 该项目主要目的
-1. 记录做过的算法题
+1. 每日一题
 2. 复习与重刷
 
 ## 该项目分类
