@@ -1,6 +1,7 @@
 - leetcode
   - [题目-按序号](/leetcode/)
   - [题目-按类型](/leetcode/list.md)
-  - [75. 颜色分类](/leetcode/75.颜色分类.md)
+  - [75.颜色分类](/leetcode/75.颜色分类.md)
   - [283.移动零](/leetcode/283.移动零.md)
   - [316.去除重复字母](/leetcode/316.去除重复字母.md)
+  - [746.使用最小花费爬楼梯](/leetcode/746.使用最小花费爬楼梯.md)
