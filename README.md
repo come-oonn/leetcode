@@ -1,5 +1,8 @@
 # leetcode
 
+## 使用项目
+1. npm i docsify-cli -g 安装依赖
+2. docsify serve docs 启动项目
 ## 项目主页
 https://come-oonn.github.io/leetcode/
 
