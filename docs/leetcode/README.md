@@ -15,3 +15,4 @@
 | [387.字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) |哈希表|简单|[387.字符串中的第一个唯一字符-文档](/leetcode/387.字符串中的第一个唯一字符.md)| lzq | lj | | |
 | [455.分发饼干](https://leetcode-cn.com/problems/assign-cookies/) |贪心|简单|[455.分发饼干-文档](/leetcode/455.分发饼干.md)|  | lj | | |
 | [746.使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) |数组、动态规划|简单|[746.使用最小花费爬楼梯-文档](/leetcode/746.使用最小花费爬楼梯.md)| lzq | lj | | |
+| [1046.最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | 堆 |简单|[1046.最后一块石头的重量-文档](/leetcode/1046.最后一块石头的重量.md)| | lj | | |
