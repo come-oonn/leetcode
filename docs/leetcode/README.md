@@ -6,10 +6,12 @@
 |---|---|---|---|---|---|---|---|
 | [75.颜色分类](https://leetcode-cn.com/problems/sort-colors/) |数组类|简单|[75.颜色分类-文档](/leetcode/75.颜色分类.md)| | lj |  |  |
 | [84.柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |单调栈|困难|[84.柱状图中最大的矩形-文档](/leetcode/84.柱状图中最大的矩形.md)| | lj |  |  |
+| [86.分隔链表](https://leetcode-cn.com/problems/partition-list/) |链表 双指针|中等|[86.分隔链表-文档](/leetcode/86.分隔链表.md)| | lj |  |  |
 | [85.最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) |单调栈|困难|[85.最大矩形-文档](/leetcode/85.最大矩形.md)| | lj |  |  |
 | [103.二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) |栈、树、广度优先|中等|[103.二叉树的锯齿形层序遍历-文档](/leetcode/103.二叉树的锯齿形层序遍历.md)| lzq | lj |  |  |
 | [135.分发糖果](https://leetcode-cn.com/problems/candy/) |贪心|困难|[135.分发糖果-文档](/leetcode/135.分发糖果.md)|  | lj |  |  |
 | [205.同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) |哈希表|简单|[205.同构字符串-文档](/leetcode/205.同构字符串.md)|  | lj |  |  |
+| [239.滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |堆|困难|[239.滑动窗口最大值-文档](/leetcode/239.滑动窗口最大值.md)|  | lj |  |  |
 | [283.移动零](https://leetcode-cn.com/problems/move-zeroes/) |数组类|简单|[283.移动零-文档](/leetcode/283.移动零.md)|lzq | | | |
 | [316.去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) |栈类|中等|[316.去除重复字母-文档](/leetcode/316.去除重复字母.md)| lzq | lj | | |
 | [387.字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) |哈希表|简单|[387.字符串中的第一个唯一字符-文档](/leetcode/387.字符串中的第一个唯一字符.md)| lzq | lj | | |
