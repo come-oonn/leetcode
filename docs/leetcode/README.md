@@ -20,4 +20,5 @@
 | [509.斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |数组|简单|[509.斐波那契数-文档](/leetcode/509.斐波那契数.md)|  | lj | | |
 | [605.种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |贪心|简单|[605.种花问题-文档](/leetcode/605.种花问题.md)|  | lj | | |
 | [746.使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) |数组、动态规划|简单|[746.使用最小花费爬楼梯-文档](/leetcode/746.使用最小花费爬楼梯.md)| lzq | lj | | |
+| [830.较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) |数组|简单|[830.较大分组的位置-文档](/leetcode/830.较大分组的位置.md)| | lj | | |
 | [1046.最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) | 堆 |简单|[1046.最后一块石头的重量-文档](/leetcode/1046.最后一块石头的重量.md)| | lj | | |
